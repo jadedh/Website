@@ -1,0 +1,17 @@
+body {
+    background-image: url("file:///Users/jadedh/Desktop/spring2017code/html/img/blur.jpg");
+     background-size: 1440px 800px;
+ background-repeat:no-repeat;
+ display: compact;
+ font: 13px/18px "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+img {
+    width: 100%;
+}
+header {
+	/*color: rgb(255,255,255)*/;
+}
+
+footer{
+	/*color: rgb(255,255,255)*/;
+}
